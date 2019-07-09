@@ -1,0 +1,11 @@
+.lineChartStyle{
+    background-color:#212f3d;
+    border: #212f3d;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 0;
+    height: 100%;
+    width: 90%;
+}
